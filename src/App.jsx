@@ -1,6 +1,5 @@
 import { useState } from 'react'
-import BgColor from './bgColor'
-import ColorPicker from './ColorPicker'
+import ColorPicker from './colorPicker'
 
 function App() {
   
